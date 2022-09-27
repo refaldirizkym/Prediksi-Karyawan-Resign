@@ -1,0 +1,6 @@
+File ini bisa dijalankan setelah membuat environment baru dan dalam command anaconda prompt itu diperbaharui menjadi folder project yang akan digunakan.
+nantinya di install menggunakan pip install Flask dan  pip install -U scikit-learn
+dalam visual studio code pada bagian terminal ketikan flask run, lalu buka http://127.0.0.1:5000 di web browser
+
+Hasilnya akan seperti ini
+image.png
